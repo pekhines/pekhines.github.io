@@ -74,15 +74,7 @@
           <p class="mb-5">Kaixo! I am an active data scientist who is always willing to learn more!</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
+              <a href="https://twitter.com/pekhines">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -90,7 +82,7 @@
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.linkedin.com/in/ekhiz">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -98,7 +90,7 @@
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://github.com/pekhines">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -115,45 +107,43 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+              <h3 class="mb-0">Senior Researcher in Data Science & professor</h3>
+              <div class="subheading mb-3">Mondragon Unibertsitatea</div>
+              <p>Researcher & Lecturer in the data analytics and cybersecurity team in the Mondragon university; working on lead european projects (Mantis, Prophesy, Productive4.0,...), as well as local goverment projects (Plenisense, CentralCloud, Precoz,...), centered in Industry4.0 solutions for Optimization and Maintenance.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <span class="text-primary">May 2017 - Present</span>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+              <h3 class="mb-0">Data Scientist Researcher</h3>
+              <div class="subheading mb-3">IK4-Ikerlan</div>
+              <p>Research work in Maintenance of Railway sistems and elevators, gained experience in condition monitoring of rotative parts (bearings, motors) using Data from sensors using Machine Learning and statistical analysis tools.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
+              <span class="text-primary">May 2015 - May 2017</span>
             </div>
           </div>
-
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+              <h3 class="mb-0">Junior Data Scientist Researcher</h3>
+              <div class="subheading mb-3">IK4-Ikerlan</div>
+              <p>Complementary Data Science work while finishing my PhD. Worked in Structural Health Monitoring of Offshore Wind Turbines using time series statistical anaysis tools.</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
+              <span class="text-primary">Octover 2009 - February 2014</span>
             </div>
           </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Design Intern</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+              <h3 class="mb-0">Information Technology Technician</h3>
+              <div class="subheading mb-3">Dantzan.eus</div>
+              <p>Complementary volunteer IT work while studying Telecomunications Engineering. This Work helped me to enter into the computer world, servers administration and virtual machines. There were hardware and software needs, and at that time, it was challenging. I contributed in this project untill late 2016</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">September 2008 - June 2010</span>
+              <span class="text-primary">January 2005 - November 2016</span>
             </div>
           </div>
 
@@ -167,13 +157,13 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">University of Colorado Boulder</h3>
-              <div class="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 class="mb-0">Universidad Politecnica de Barcelona</h3>
+              <div class="subheading mb-3">Doctor of Philosophy (PhD)</div>
+              <div><a target="_blank" href="https://www.tesisenred.net/handle/10803/133449"> Design and validation of a methodology for wind energy structures health monitoring </a></div>
+              <p>Cum Laude</p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">August 2006 - May 2010</span>
+              <span class="text-primary">Octover 2009 - January 2014</span>
             </div>
           </div>
 
